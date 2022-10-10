@@ -1,0 +1,4 @@
+Zadání projektu:
+
+Vytvořte program pro MCU, kterým budete ovládat dva LED 7-segmenty (můžete použít hardwarový dekodér), na kterých bude zobrazeno postupně se (v reálném čase) inkrementující dekadické, 
+dvojciferné číslo. Inkrementace bude ovládána dvěma tlačítky, která budou fungovat jako START a STOP. 
